@@ -26,4 +26,4 @@ The repository contains the following files:
 To view the website on your local machine:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/resume.git
+   git clone https://github.com/dhanu2426/Resume.git
